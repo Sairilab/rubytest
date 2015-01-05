@@ -7,8 +7,8 @@ Hello everyone. This is test.
 
 ## Code
 `sh csvtev.sh`  
-C  
-    #include\<stdio.h>  
+  
+    #include<stdio.h>  
     int main(void) {
         return 0;
     }
